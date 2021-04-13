@@ -1,0 +1,14 @@
+db/data/
+
+cart/node_modules/
+cart/public/hot/
+cart/public/storage/
+cart/storage/*.key/
+cart/vendor/
+cart/.env.backup
+cart/.phpunit.result.cache
+cart/docker-compose.override.yml
+cart/Homestead.json
+cart/Homestead.yaml
+cart/npm-debug.log
+cart/yarn-error.log
